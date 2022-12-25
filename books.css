@@ -1,0 +1,209 @@
+.full-card-bg{
+    background-color: black;
+    height: 700px;
+    width: 500px;
+    
+}
+
+
+.topic{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+ 
+   
+.book-detail-card{
+    background-color: white;
+    height: 170px;
+    width:460px;
+    border-radius: 15px;
+   margin-left: 10px;
+}
+
+.book-image{
+    height: 160px;
+    width: 140px;
+    border-radius: 10px;
+    padding-right:35px ;
+    padding-top: 10px ;
+}
+
+.book-details{
+    padding-right: 15px ;
+    padding-top: 20px ;
+    width: 300px;
+}
+
+
+
+.book-head{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #183b56;
+    font-size:30px;
+    font-weight: bolder;
+    width: 690px;
+}
+
+.book-head-2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size:small;
+    font-weight: bold;
+}
+
+.book-para{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size: small;
+    font-weight: lighter;
+}
+
+
+.btn{
+    border-radius: 10px;
+    border-width: 0ch;
+}
+
+/*recommended side*/
+
+
+.book-detail-card-2{
+    background-color: grey;
+    height: 140px;
+    width:400px;
+    border-radius: 15px;
+    margin-left: 10px;
+   
+}
+
+.book-image-2{
+    height: 120px;
+    width: 90px;
+    border-radius: 10px;
+    margin-right:10px ;
+    margin-left: 9px ;
+    margin-top:10px ;
+    margin-bottom:5px ;
+}
+
+
+.recommended-book-heads{
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size:20px;
+    font-weight: bold;
+    margin-top: 9px;
+}
+
+
+.recommended-book-para{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size:15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+.recommended-book-para-2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size:smaller;
+    font-weight: light;
+    margin-bottom: 5px;
+}
+
+.recommended-book-details{
+    
+        margin-right: 25px ;
+        padding-top: 5px ;
+        width: 350px;
+        height: 30px;
+}
+
+
+.gap-container{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+.full-bg-container{
+    background-color: black;
+}
+
+.book-images{
+height: 550px;
+width: 400px;
+margin-left: 40px;
+margin-top:20px ;
+}
+
+.book-title{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: bolder;
+font-size: 50px;
+color: white;
+margin-left: 80px;
+margin-top:20px ;
+}
+
+.author{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    margin-left: 150px;
+    margin-top:20px ;
+}
+
+.para{
+    
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: lighter;
+        font-size: 20px;
+        color: white;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top:20px ;
+}
+
+.btn-back{
+    border-radius: 5px;
+    margin-left: 130px;
+    margin-right: 20px;
+    height: 35px;
+    width: 70px;
+}
+
+.btn-buy{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 100px;
+    height: 35px;
+    width: 120px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
